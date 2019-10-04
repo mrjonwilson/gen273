@@ -22,8 +22,8 @@
     "has_social": false,
     "social_title": "Community",
     "has_subscribe": false,
-    "subscribe_title": "Subscribe",
-    "subscribe_content": "Stay up to date with our latest developments.",
+    "subscribe_title": "",
+    "subscribe_content": "",
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [
       {
