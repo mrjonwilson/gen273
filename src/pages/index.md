@@ -20,7 +20,7 @@ sections:
   bg: gray
   type: featuresblock
   section_id: Companies
-  title: Our Companies
+  title: ''
   featureslist:
   - content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
