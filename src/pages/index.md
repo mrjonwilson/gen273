@@ -1,18 +1,21 @@
 ---
 title: Home
 sections:
+- template: contentblock
+  component: ContentBlock
+  bg: gray
+  type: contentblock
+  section_id: ''
+  title: ''
+  content: ''
+  image: ''
+  actions: []
 - template: featuresblock
   component: FeaturesBlock
   bg: gray
   type: featuresblock
   section_id: Companies
   title: Our Companies
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id est laborum.
   featureslist:
   - title: Standing Pine Media
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
@@ -36,6 +39,7 @@ sections:
     - label: Visit Website
       url: https://backwoodsgrind.com
     title: Backwoods Grind Coffee Company
+  subtitle: ''
 menus:
   main:
     title: Home
