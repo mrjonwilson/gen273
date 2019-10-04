@@ -3,7 +3,7 @@
   "palette": "orange",
   "header": {
     "title": "Gen273 Outdoors, LLC",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/Gen273-Logo.png",
     "has_nav": false,
     "menu": {
       "actions": [
