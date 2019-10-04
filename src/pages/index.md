@@ -5,7 +5,7 @@ sections:
   component: FeaturesBlock
   bg: gray
   type: featuresblock
-  section_id: ''
+  section_id: Companies
   title: Our Companies
   subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
